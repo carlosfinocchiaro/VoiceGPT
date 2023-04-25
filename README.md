@@ -40,10 +40,10 @@ git clone https://github.com/your-username/VoiceGPT.git
 cd VoiceGPT
 ```
 
-3. Run the `main.py` script:
+3. Run the `VoiceGPT.py` script:
 
 ```bash
-python main.py
+python VoiceGPT.py
 ```
 
 4. Enter your OpenAI API key when prompted.
